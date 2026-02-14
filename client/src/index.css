@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+/* 1. Register Custom Font */
+@font-face {
+  font-family: 'PeaceBegins';
+  src: url('/fonts/Peace Begins.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  --color-primary: #0f3d2e;
+  /* Deep Sea Green */
+  --color-primary-light: #2f7d32;
+  /* Fresh Leaf Green */
+  --color-accent: #facc15;
+  /* Accent Yellow */
+  --color-hero-bg: #111111;
+  --color-page-bg: #ffffff;
+  --color-card-bg: #ffffff;
+  --color-text-heading: #111827;
+  /* gray-900 */
+  --color-text-body: #4b5563;
+  /* gray-600 */
+
+  --font-sans: "Outfit", sans-serif;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-page-bg);
+  color: var(--color-text-body);
+  /* Default to system/sans font, overridden by wrapper classes */
+  font-family: var(--font-sans);
+}
+
+/* 2. Scoped Font Classes */
+.customer-font {
+  font-family: 'PeaceBegins', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  letter-spacing: 2px;
+}
+
+.admin-font {
+  font-family: var(--font-sans);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--color-text-heading);
+  font-weight: 700;
+}
+
+/* Custom Utilities if needed */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
