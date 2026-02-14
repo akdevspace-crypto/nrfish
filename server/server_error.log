@@ -1,0 +1,42 @@
+[2026-02-11T13:10:32.709Z] Initialize Payment Error: column u.phone does not exist
+Stack: error: column u.phone does not exist
+    at E:\Akash\Web_project\Artibots\New NR react app\server\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initializePayment (file:///E:/Akash/Web_project/Artibots/New%20NR%20react%20app/server/controllers/paymentController.js:27:29)
+Full Error: {"stack":"error: column u.phone does not exist\n    at E:\\Akash\\Web_project\\Artibots\\New NR react app\\server\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async initializePayment (file:///E:/Akash/Web_project/Artibots/New%20NR%20react%20app/server/controllers/paymentController.js:27:29)","message":"column u.phone does not exist","length":105,"name":"error","severity":"ERROR","code":"42703","position":"43","file":"parse_relation.c","line":"3716","routine":"errorMissingColumn"}
+
+[2026-02-11T13:10:41.321Z] Initialize Payment Error: column u.phone does not exist
+Stack: error: column u.phone does not exist
+    at E:\Akash\Web_project\Artibots\New NR react app\server\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initializePayment (file:///E:/Akash/Web_project/Artibots/New%20NR%20react%20app/server/controllers/paymentController.js:27:29)
+Full Error: {"stack":"error: column u.phone does not exist\n    at E:\\Akash\\Web_project\\Artibots\\New NR react app\\server\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async initializePayment (file:///E:/Akash/Web_project/Artibots/New%20NR%20react%20app/server/controllers/paymentController.js:27:29)","message":"column u.phone does not exist","length":105,"name":"error","severity":"ERROR","code":"42703","position":"43","file":"parse_relation.c","line":"3716","routine":"errorMissingColumn"}
+
+[2026-02-11T13:22:55.443Z] Initialize Payment Error: column u.phone does not exist
+Stack: error: column u.phone does not exist
+    at E:\Akash\Web_project\Artibots\New NR react app\server\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initializePayment (file:///E:/Akash/Web_project/Artibots/New%20NR%20react%20app/server/controllers/paymentController.js:27:29)
+Full Error: {"stack":"error: column u.phone does not exist\n    at E:\\Akash\\Web_project\\Artibots\\New NR react app\\server\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async initializePayment (file:///E:/Akash/Web_project/Artibots/New%20NR%20react%20app/server/controllers/paymentController.js:27:29)","message":"column u.phone does not exist","length":105,"name":"error","severity":"ERROR","code":"42703","position":"43","file":"parse_relation.c","line":"3716","routine":"errorMissingColumn"}
+
+[2026-02-11T13:32:15.842Z] Initialize Payment Error: new row for relation "payments" violates check constraint "payments_payment_method_check"
+Stack: error: new row for relation "payments" violates check constraint "payments_payment_method_check"
+    at E:\Akash\Web_project\Artibots\New NR react app\server\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initializePayment (file:///E:/Akash/Web_project/Artibots/New%20NR%20react%20app/server/controllers/paymentController.js:65:9)
+Full Error: {"stack":"error: new row for relation \"payments\" violates check constraint \"payments_payment_method_check\"\n    at E:\\Akash\\Web_project\\Artibots\\New NR react app\\server\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async initializePayment (file:///E:/Akash/Web_project/Artibots/New%20NR%20react%20app/server/controllers/paymentController.js:65:9)","message":"new row for relation \"payments\" violates check constraint \"payments_payment_method_check\"","length":403,"name":"error","severity":"ERROR","code":"23514","detail":"Failing row contains (1b9f9c9f-f18f-47c2-99ba-e6f2956938c1, 45, 5, 244.00, INR, CASHFREE, ORDER_45_1770816735349, PENDING, PENDING, null, null, 2026-02-11 13:32:16.947679, 2026-02-11 13:32:16.947679).","schema":"public","table":"payments","constraint":"payments_payment_method_check","file":"execMain.c","line":"2033","routine":"ExecConstraints"}
+
+[2026-02-11T13:45:52.599Z] Initialize Payment Error: new row for relation "payments" violates check constraint "payments_payment_method_check"
+Stack: error: new row for relation "payments" violates check constraint "payments_payment_method_check"
+    at E:\Akash\Web_project\Artibots\New NR react app\server\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initializePayment (file:///E:/Akash/Web_project/Artibots/New%20NR%20react%20app/server/controllers/paymentController.js:65:9)
+Full Error: {"stack":"error: new row for relation \"payments\" violates check constraint \"payments_payment_method_check\"\n    at E:\\Akash\\Web_project\\Artibots\\New NR react app\\server\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async initializePayment (file:///E:/Akash/Web_project/Artibots/New%20NR%20react%20app/server/controllers/paymentController.js:65:9)","message":"new row for relation \"payments\" violates check constraint \"payments_payment_method_check\"","length":403,"name":"error","severity":"ERROR","code":"23514","detail":"Failing row contains (a42314ad-e25c-4f58-bab4-6100dc34cfe7, 46, 5, 244.00, INR, CASHFREE, ORDER_46_1770817552248, PENDING, PENDING, null, null, 2026-02-11 13:45:53.773087, 2026-02-11 13:45:53.773087).","schema":"public","table":"payments","constraint":"payments_payment_method_check","file":"execMain.c","line":"2033","routine":"ExecConstraints"}
+
+[2026-02-11T18:11:09.609Z] Initialize Payment Error: new row for relation "payments" violates check constraint "payments_payment_method_check"
+Stack: error: new row for relation "payments" violates check constraint "payments_payment_method_check"
+    at E:\Akash\Web_project\Artibots\New NR react app\server\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async initializePayment (file:///E:/Akash/Web_project/Artibots/New%20NR%20react%20app/server/controllers/paymentController.js:65:9)
+Full Error: {"stack":"error: new row for relation \"payments\" violates check constraint \"payments_payment_method_check\"\n    at E:\\Akash\\Web_project\\Artibots\\New NR react app\\server\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async initializePayment (file:///E:/Akash/Web_project/Artibots/New%20NR%20react%20app/server/controllers/paymentController.js:65:9)","message":"new row for relation \"payments\" violates check constraint \"payments_payment_method_check\"","length":403,"name":"error","severity":"ERROR","code":"23514","detail":"Failing row contains (d4702459-8e7f-481b-80f3-dbba9cb9191e, 47, 5, 244.00, INR, CASHFREE, ORDER_47_1770833469253, PENDING, PENDING, null, null, 2026-02-11 18:11:10.740782, 2026-02-11 18:11:10.740782).","schema":"public","table":"payments","constraint":"payments_payment_method_check","file":"execMain.c","line":"2033","routine":"ExecConstraints"}
+

@@ -1,0 +1,290 @@
+[
+  {
+    "id": "0652fd49-20c4-4fc6-918c-b1e8ed5f1dcf",
+    "name": "Soya Chaap Sticks",
+    "category": "Vegetarian",
+    "image": [
+      "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "High protein meat alternative",
+      "Chewy texture similar to meat",
+      "Great for tandoori tikka",
+      "100% Vegetarian"
+    ]
+  },
+  {
+    "id": "0b8b016a-0721-46f9-a760-3d47a7f1af51",
+    "name": "Paneer Cubes (Malai)",
+    "category": "Vegetarian",
+    "image": [
+      "https://images.pexels.com/photos/4551832/pexels-photo-4551832.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4552047/pexels-photo-4552047.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/9609835/pexels-photo-9609835.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "Soft and creamy texture",
+      "Freshly made",
+      "Perfect for curries or grilling",
+      "Rich source of calcium"
+    ]
+  },
+  {
+    "id": "14fb12a9-d0e4-43b4-bbaf-c2dcc8499f90",
+    "name": "Mutton Keema (Minced)",
+    "category": "Mutton",
+    "image": [
+      "https://images.pexels.com/photos/19597753/pexels-photo-19597753/free-photo-of-close-up-of-raw-ground-beef-on-table.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/5774163/pexels-photo-5774163.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/6605207/pexels-photo-6605207.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "Finely minced goat meat",
+      "Ideal for kebabs and keema curry",
+      "Fat trimmed",
+      "No cartilage"
+    ]
+  },
+  {
+    "id": "200c381e-e359-45f6-a222-f942e9e2ba3f",
+    "name": "Chicken Curry Cut (Skinless)",
+    "category": "Poultry",
+    "image": [
+      "https://images.pexels.com/photos/616354/pexels-photo-616354.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/6210876/pexels-photo-6210876.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3926123/pexels-photo-3926123.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "Mix of bone-in and boneless pieces",
+      "Tender meat for curries",
+      "Hormone and antibiotic free",
+      "Halal cut"
+    ]
+  },
+  {
+    "id": "26a811f5-a6d7-4046-a34c-b67d575016b6",
+    "name": "Seer Fish / Surmai Steaks",
+    "category": "Fish & Seafood",
+    "image": [
+      "https://images.pexels.com/photos/8438128/pexels-photo-8438128.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3655916/pexels-photo-3655916.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3296229/pexels-photo-3296229.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "King of fishes - popular delicacy",
+      "Single bone, easy to eat",
+      "Great for frying",
+      "High protein content"
+    ]
+  },
+  {
+    "id": "31ec6c69-b6ce-4e0f-93a5-1c9094f5cf31",
+    "name": "Premium Atlantic Salmon Steaks",
+    "category": "Fish & Seafood",
+    "image": [
+      "https://images.pexels.com/photos/3296278/pexels-photo-3296278.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/8963406/pexels-photo-8963406.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3783114/pexels-photo-3783114.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "Rich in Omega-3 fatty acids",
+      "Freshly sourced from Atlantic waters",
+      "Perfect for grilling or pan-searing",
+      "Vacuum packed for freshness"
+    ]
+  },
+  {
+    "id": "57683255-24bc-4930-b1b5-48da93966682",
+    "name": "Fresh Black Tiger Prawns (Cleaned)",
+    "category": "Fish & Seafood",
+    "image": [
+      "https://images.pexels.com/photos/5693635/pexels-photo-5693635.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/6941019/pexels-photo-6941019.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2899738/pexels-photo-2899738.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "Deshelled and deveined for convenience",
+      "Sweet and succulent taste",
+      "Ideal for curries and stir-frys",
+      "Antibiotic-free"
+    ]
+  },
+  {
+    "id": "6682d6c3-e09e-4613-84d2-6d8c393151c0",
+    "name": "Rohu Fish (Bengali Cut)",
+    "category": "Fish & Seafood",
+    "image": [
+      "https://images.pexels.com/photos/4033236/pexels-photo-4033236.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/8963422/pexels-photo-8963422.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/10005703/pexels-photo-10005703.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "Freshwater delicacy",
+      "Cut into traditional pieces",
+      "Firm texture and sweet flavor",
+      "Daily catch"
+    ]
+  },
+  {
+    "id": "7039cd50-87a7-4cc2-babd-baf775a3b6cf",
+    "name": "Fish Fingers (Breaded)",
+    "category": "Ready To Cook",
+    "image": [
+      "https://images.pexels.com/photos/566566/pexels-photo-566566.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/691114/pexels-photo-691114.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "Crunchy breadcrumb coating",
+      "Soft fish inside",
+      "Fry in 3 minutes",
+      "No prep needed"
+    ]
+  },
+  {
+    "id": "74bb8652-b57d-4507-9eaf-3795a1807641",
+    "name": "Chicken Breast Fillet",
+    "category": "Poultry",
+    "image": [
+      "https://images.pexels.com/photos/3688/food-dinner-lunch-chicken.jpg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/6210928/pexels-photo-6210928.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4397734/pexels-photo-4397734.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "Lean protein source",
+      "Boneless and skinless",
+      "Perfect for grilling or salads",
+      "Juicy and tender"
+    ]
+  },
+  {
+    "id": "89bd7435-aa0f-4582-b68b-68f540abe467",
+    "name": "Chicken Drumsticks",
+    "category": "Poultry",
+    "image": [
+      "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2996160/pexels-photo-2996160.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "Juicy lower leg pieces",
+      "Great for tandoori or frying",
+      "Skinless and cleaned",
+      "Kid favorite"
+    ]
+  },
+  {
+    "id": "96a648fb-8c0f-4bd9-a96d-4c4f3dea928a",
+    "name": "Premium Lamb Chops",
+    "category": "Mutton",
+    "image": [
+      "https://images.pexels.com/photos/4202948/pexels-photo-4202948.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/361184/asparagus-steak-veal-steak-veal-361184.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "Exquisite rib chops",
+      "Perfect for grilling",
+      "Soft and succulent texture",
+      "Imported quality"
+    ]
+  },
+  {
+    "id": "abc218fe-f9b9-4635-bcf2-77e0ff717687",
+    "name": "Frozen Green Peas",
+    "category": "Vegetarian",
+    "image": [
+      "https://images.pexels.com/photos/9267156/pexels-photo-9267156.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/255469/pexels-photo-255469.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1435735/pexels-photo-1435735.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "Sweet and tender peas",
+      "Flash frozen to retain nutrients",
+      "No preservatives",
+      "Garden fresh taste"
+    ]
+  },
+  {
+    "id": "b20f312d-6264-47f1-815a-6bb5afddc94e",
+    "name": "Goat Curry Cut",
+    "category": "Mutton",
+    "image": [
+      "https://images.pexels.com/photos/6543636/pexels-photo-6543636.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/9609836/pexels-photo-9609836.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/410648/pexels-photo-410648.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "Tender goat meat pieces",
+      "Mix of bone-in chops and ribs",
+      "Rich flavor for slow cooking",
+      "Hygienically packed"
+    ]
+  },
+  {
+    "id": "d9bd0fe0-57c7-47cf-9cdf-9718f52bd42c",
+    "name": "Basa Fish Fillet",
+    "category": "Steaks & Fillet",
+    "image": [
+      "https://images.pexels.com/photos/3763847/pexels-photo-3763847.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/8438131/pexels-photo-8438131.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/10005703/pexels-photo-10005703.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "White, flaky meat",
+      "Boneless fillets",
+      "Mild flavor",
+      "Good for batter frying"
+    ]
+  },
+  {
+    "id": "ecfbfce6-f72e-47bb-abf4-c581bd9db52a",
+    "name": "Whole Chicken (With Skin)",
+    "category": "Poultry",
+    "image": [
+      "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/6210893/pexels-photo-6210893.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/4969294/pexels-photo-4969294.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "Full bird for roasting",
+      "Retains moisture with skin",
+      "Farm raised",
+      "Gutted and cleaned"
+    ]
+  },
+  {
+    "id": "f23597b8-7225-426e-8da4-7683b932a7c8",
+    "name": "Tuna Loin Steaks",
+    "category": "Steaks & Fillet",
+    "image": [
+      "https://images.pexels.com/photos/3296229/pexels-photo-3296229.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/8963406/pexels-photo-8963406.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/5945892/pexels-photo-5945892.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "Sashimi grade tuna",
+      "Thick meaty texture",
+      "High protein, low fat",
+      "Deep red color"
+    ]
+  },
+  {
+    "id": "ff88e032-9953-4498-a5cf-4100202adf73",
+    "name": "Spicy Chicken Wings (Marinated)",
+    "category": "Ready To Cook",
+    "image": [
+      "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1352270/pexels-photo-1352270.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": [
+      "Peri-peri style marinade",
+      "Ready to grill or bake",
+      "Spicy kick",
+      "Party snack"
+    ]
+  }
+]

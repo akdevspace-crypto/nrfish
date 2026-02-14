@@ -1,0 +1,13 @@
+[PAYMENT_SCHEMA] Column: id, Type: uuid
+[PAYMENT_SCHEMA] Column: order_id, Type: integer
+[PAYMENT_SCHEMA] Column: user_id, Type: integer
+[PAYMENT_SCHEMA] Column: amount, Type: numeric
+[PAYMENT_SCHEMA] Column: currency, Type: character varying
+[PAYMENT_SCHEMA] Column: payment_method, Type: character varying
+[PAYMENT_SCHEMA] Column: transaction_id, Type: character varying
+[PAYMENT_SCHEMA] Column: status, Type: character varying
+[PAYMENT_SCHEMA] Column: verification_status, Type: character varying
+[PAYMENT_SCHEMA] Column: verified_by, Type: integer
+[PAYMENT_SCHEMA] Column: verified_at, Type: timestamp without time zone
+[PAYMENT_SCHEMA] Column: created_at, Type: timestamp without time zone
+[PAYMENT_SCHEMA] Column: updated_at, Type: timestamp without time zone

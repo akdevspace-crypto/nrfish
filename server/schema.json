@@ -1,0 +1,54 @@
+[
+  {
+    "column_name": "id",
+    "data_type": "uuid"
+  },
+  {
+    "column_name": "name",
+    "data_type": "text"
+  },
+  {
+    "column_name": "description",
+    "data_type": "ARRAY"
+  },
+  {
+    "column_name": "price",
+    "data_type": "numeric"
+  },
+  {
+    "column_name": "offer_price",
+    "data_type": "numeric"
+  },
+  {
+    "column_name": "image",
+    "data_type": "ARRAY"
+  },
+  {
+    "column_name": "category",
+    "data_type": "text"
+  },
+  {
+    "column_name": "in_stock",
+    "data_type": "boolean"
+  },
+  {
+    "column_name": "created_at",
+    "data_type": "timestamp without time zone"
+  },
+  {
+    "column_name": "updated_at",
+    "data_type": "timestamp without time zone"
+  },
+  {
+    "column_name": "weight",
+    "data_type": "text"
+  },
+  {
+    "column_name": "tags",
+    "data_type": "ARRAY"
+  },
+  {
+    "column_name": "is_bestseller",
+    "data_type": "boolean"
+  }
+]

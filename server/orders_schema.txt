@@ -1,0 +1,20 @@
+[ORDER_SCHEMA] Column: id, Type: integer
+[ORDER_SCHEMA] Column: user_id, Type: character varying
+[ORDER_SCHEMA] Column: items, Type: jsonb
+[ORDER_SCHEMA] Column: amount, Type: numeric
+[ORDER_SCHEMA] Column: address, Type: character varying
+[ORDER_SCHEMA] Column: status, Type: character varying
+[ORDER_SCHEMA] Column: payment_type, Type: character varying
+[ORDER_SCHEMA] Column: is_paid, Type: boolean
+[ORDER_SCHEMA] Column: created_at, Type: timestamp without time zone
+[ORDER_SCHEMA] Column: updated_at, Type: timestamp without time zone
+[ORDER_SCHEMA] Column: coupon_code, Type: character varying
+[ORDER_SCHEMA] Column: discount_amount, Type: numeric
+[ORDER_SCHEMA] Column: delivery_slot, Type: character varying
+[ORDER_SCHEMA] Column: is_delivered, Type: boolean
+[ORDER_SCHEMA] Column: delivered_at, Type: timestamp without time zone
+[ORDER_SCHEMA] Column: delivery_agent_name, Type: character varying
+[ORDER_SCHEMA] Column: delivery_agent_phone, Type: character varying
+[ORDER_SCHEMA] Column: delivery_vehicle_no, Type: character varying
+[ORDER_SCHEMA] Column: delivery_live_status, Type: character varying
+[ORDER_SCHEMA] Column: payment_status, Type: character varying

@@ -1,0 +1,43 @@
+[USER_SCHEMA] Column: instance_id, Type: uuid
+[USER_SCHEMA] Column: id, Type: uuid
+[USER_SCHEMA] Column: aud, Type: character varying
+[USER_SCHEMA] Column: role, Type: character varying
+[USER_SCHEMA] Column: email, Type: character varying
+[USER_SCHEMA] Column: encrypted_password, Type: character varying
+[USER_SCHEMA] Column: email_confirmed_at, Type: timestamp with time zone
+[USER_SCHEMA] Column: invited_at, Type: timestamp with time zone
+[USER_SCHEMA] Column: confirmation_token, Type: character varying
+[USER_SCHEMA] Column: confirmation_sent_at, Type: timestamp with time zone
+[USER_SCHEMA] Column: recovery_token, Type: character varying
+[USER_SCHEMA] Column: recovery_sent_at, Type: timestamp with time zone
+[USER_SCHEMA] Column: email_change_token_new, Type: character varying
+[USER_SCHEMA] Column: email_change, Type: character varying
+[USER_SCHEMA] Column: email_change_sent_at, Type: timestamp with time zone
+[USER_SCHEMA] Column: last_sign_in_at, Type: timestamp with time zone
+[USER_SCHEMA] Column: raw_app_meta_data, Type: jsonb
+[USER_SCHEMA] Column: raw_user_meta_data, Type: jsonb
+[USER_SCHEMA] Column: is_super_admin, Type: boolean
+[USER_SCHEMA] Column: created_at, Type: timestamp with time zone
+[USER_SCHEMA] Column: updated_at, Type: timestamp with time zone
+[USER_SCHEMA] Column: phone, Type: text
+[USER_SCHEMA] Column: phone_confirmed_at, Type: timestamp with time zone
+[USER_SCHEMA] Column: phone_change, Type: text
+[USER_SCHEMA] Column: phone_change_token, Type: character varying
+[USER_SCHEMA] Column: phone_change_sent_at, Type: timestamp with time zone
+[USER_SCHEMA] Column: confirmed_at, Type: timestamp with time zone
+[USER_SCHEMA] Column: email_change_token_current, Type: character varying
+[USER_SCHEMA] Column: email_change_confirm_status, Type: smallint
+[USER_SCHEMA] Column: banned_until, Type: timestamp with time zone
+[USER_SCHEMA] Column: reauthentication_token, Type: character varying
+[USER_SCHEMA] Column: reauthentication_sent_at, Type: timestamp with time zone
+[USER_SCHEMA] Column: is_sso_user, Type: boolean
+[USER_SCHEMA] Column: deleted_at, Type: timestamp with time zone
+[USER_SCHEMA] Column: is_anonymous, Type: boolean
+[USER_SCHEMA] Column: id, Type: integer
+[USER_SCHEMA] Column: name, Type: text
+[USER_SCHEMA] Column: email, Type: text
+[USER_SCHEMA] Column: password, Type: text
+[USER_SCHEMA] Column: cart_items, Type: jsonb
+[USER_SCHEMA] Column: created_at, Type: timestamp without time zone
+[USER_SCHEMA] Column: updated_at, Type: timestamp without time zone
+[USER_SCHEMA] Column: mobile, Type: character varying
